@@ -24,7 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           },
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "organicshop"
+    }
+  },
+  "defaultProject": "organicshop",
+  "cli": {
+    "analytics": "ed2b4b13-d19e-44cf-bab2-3b7421f553d3"
+  }
 }
